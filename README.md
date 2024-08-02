@@ -8,7 +8,8 @@ Welcome to SafetySensei Techno-Bot, an intelligent chatbot designed to help driv
 
 SafetySensei Techno-Bot is an AI-powered FAQ system that provides quick and accurate answers to questions about traffic policies, rules, and regulations. Leveraging the power of Google Palm LLM, HuggingFace embeddings, and FAISS vector stores, SafetySensei Techno-Bot ensures that users have access to reliable information at their fingertips.
 
-![image](https://github.com/Neerajjv/RAG-LLM-PROJECT/assets/154986859/55db10d6-107a-437c-8be4-079cfc6e57fb)
+![image](https://github.com/user-attachments/assets/1e0ad024-c6aa-4d07-ac93-ce07b07051cf)
+
 
 
 ## Features
